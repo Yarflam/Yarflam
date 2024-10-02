@@ -6,3 +6,5 @@
 - 💬 Ask me about on any subjects: **Web development, Crypto, AI models, Security, IT design, Math & Algorithms**.
 - 📫 How to reach me: You can join the **HuggingFace Discord** (or **TheBlock Discord**) and tag me.
 - ⚡ Fun fact: I love **Tim Tam** and **Toffee Pops**!
+
+My **Pouet** model is available: [https://ollama.com/Yarflam](https://ollama.com/Yarflam). 💖😝
