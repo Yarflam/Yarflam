@@ -8,3 +8,5 @@
 - ⚡ Fun fact: I love **Tim Tam** and **Toffee Pops**!
 
 My **Pouet** model is available: [https://ollama.com/Yarflam](https://ollama.com/Yarflam). 💖😝
+
+Also my Gitlab account has more active projects: https://gitlab.com/users/Yarflam/projects 
